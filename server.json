@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_kMEUKduQ0R-DPnOqZ4MgG6FdhzCnNswqJw&usqp=CAU",
+      "name": "Prato brasileiro 2",
+      "price": "29.99",
+      "description": "gostosinho prato brasileiro, arroz, feijão, ovo, e o que está na imagem rs. ok",
+      "id": 4,
+      "available": true
     }
   ]
 }

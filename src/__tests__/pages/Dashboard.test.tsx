@@ -251,7 +251,7 @@ describe('Dashboard', () => {
       timeout: 200,
     });
 
-    expect(getByText('Ao molho')).toBeTruthy();
+    expect(getByText('Macarrão ao molho branco, fughi e cheiro verde das montanhas.')).toBeTruthy();
     expect(
       getByText(
         'Macarrão ao molho branco, fughi e cheiro verde das montanhas.',
